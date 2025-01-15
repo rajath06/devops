@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi this is the final change
+=======
+hi hello gm
+>>>>>>> refs/remotes/origin/master
